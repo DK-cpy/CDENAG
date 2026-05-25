@@ -1,5 +1,5 @@
 hyper_params_setting = {
-    "num_step": 20,
+    "num_step": 50,
     "population_num": 30,
     "geno_shape": (4, 14),
     "temperature": 1.0,
@@ -12,13 +12,14 @@ hyper_params_setting = {
     "max_iter_time": 30,
     "save_dir": "./results/",
     "seed": [
-        2,  # 94.69
-        3,  # 94.58
-        6,  # 94.69
-        8,  # 94.39
-        9,  # 94.69
-        22,  # 94.69
-        77,  # 94.69
-        99,  # 94.69
+        111,   #94.69
+        666,   #94.69
+        888,
+        999,
+        2345,  
+        5678,  
+        7890,
+        1001,
+        9009,
     ],
 }
