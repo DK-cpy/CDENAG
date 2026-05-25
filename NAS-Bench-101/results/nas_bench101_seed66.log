@@ -1,0 +1,6 @@
+2026-05-03 12:40:12 [INFO] ===== Starting experiment with seed 66 =====
+2026-05-03 12:40:12 [INFO] Random seed set: 66
+2026-05-03 12:40:12 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 12:40:18 [INFO] Seed 66: Max accuracy = 94.47%, Duration = 5.81 seconds
+2026-05-03 12:40:18 [INFO] ===== Experiment with seed 66 completed =====
+

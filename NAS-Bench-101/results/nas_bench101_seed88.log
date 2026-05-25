@@ -1,0 +1,6 @@
+2026-05-03 12:38:21 [INFO] ===== Starting experiment with seed 88 =====
+2026-05-03 12:38:21 [INFO] Random seed set: 88
+2026-05-03 12:38:21 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 12:38:27 [INFO] Seed 88: Max accuracy = 94.43%, Duration = 6.38 seconds
+2026-05-03 12:38:27 [INFO] ===== Experiment with seed 88 completed =====
+

@@ -1,0 +1,6 @@
+2026-05-03 12:36:01 [INFO] ===== Starting experiment with seed 44 =====
+2026-05-03 12:36:01 [INFO] Random seed set: 44
+2026-05-03 12:36:01 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 12:36:10 [INFO] Seed 44: Max accuracy = 94.43%, Duration = 8.98 seconds
+2026-05-03 12:36:10 [INFO] ===== Experiment with seed 44 completed =====
+

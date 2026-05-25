@@ -1,0 +1,363 @@
+2026-05-03 13:59:03 [INFO] ============================== Experiment started ==============================
+2026-05-03 13:59:03 [INFO] Seeds: [12345, 66, 99]
+2026-05-03 13:59:03 [INFO] ----- Seed 12345 started -----
+2026-05-03 13:59:03 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 13:59:10 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 6.69 seconds
+2026-05-03 13:59:10 [INFO] ----- Seed 66 started -----
+2026-05-03 13:59:10 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 13:59:17 [INFO] Seed 66: Max accuracy = 94.03%, Duration = 7.20 seconds
+2026-05-03 13:59:17 [INFO] ----- Seed 99 started -----
+2026-05-03 13:59:17 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 13:59:24 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 7.19 seconds
+2026-05-03 13:59:24 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 13:59:24 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 6.69 seconds
+2026-05-03 13:59:24 [INFO] Seed 66: Max accuracy = 94.03%, Duration = 7.20 seconds
+2026-05-03 13:59:24 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 7.19 seconds
+2026-05-03 13:59:24 [INFO] ============================================================
+
+2026-05-03 14:01:03 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:01:03 [INFO] Seeds: [12345, 66, 99]
+2026-05-03 14:01:03 [INFO] ----- Seed 12345 started -----
+2026-05-03 14:01:03 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:01:10 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 7.24 seconds
+2026-05-03 14:01:10 [INFO] ----- Seed 66 started -----
+2026-05-03 14:01:10 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:01:18 [INFO] Seed 66: Max accuracy = 94.17%, Duration = 7.17 seconds
+2026-05-03 14:01:18 [INFO] ----- Seed 99 started -----
+2026-05-03 14:01:18 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:01:25 [INFO] Seed 99: Max accuracy = 93.83%, Duration = 7.30 seconds
+2026-05-03 14:01:25 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:01:25 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 7.24 seconds
+2026-05-03 14:01:25 [INFO] Seed 66: Max accuracy = 94.17%, Duration = 7.17 seconds
+2026-05-03 14:01:25 [INFO] Seed 99: Max accuracy = 93.83%, Duration = 7.30 seconds
+2026-05-03 14:01:25 [INFO] ============================================================
+
+2026-05-03 14:03:27 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:03:27 [INFO] Seeds: [12345, 66, 99]
+2026-05-03 14:03:27 [INFO] ----- Seed 12345 started -----
+2026-05-03 14:03:27 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:03:34 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 7.10 seconds
+2026-05-03 14:03:34 [INFO] ----- Seed 66 started -----
+2026-05-03 14:03:34 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:03:41 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 7.63 seconds
+2026-05-03 14:03:41 [INFO] ----- Seed 99 started -----
+2026-05-03 14:03:41 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:03:49 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 7.07 seconds
+2026-05-03 14:03:49 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:03:49 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 7.10 seconds
+2026-05-03 14:03:49 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 7.63 seconds
+2026-05-03 14:03:49 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 7.07 seconds
+2026-05-03 14:03:49 [INFO] ============================================================
+
+2026-05-03 14:05:22 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:05:22 [INFO] Seeds: [12345, 66, 99]
+2026-05-03 14:05:22 [INFO] ----- Seed 12345 started -----
+2026-05-03 14:05:22 [INFO] Hyper-parameters: num_step=50, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:05:39 [INFO] Seed 12345: Max accuracy = 94.43%, Duration = 17.51 seconds
+2026-05-03 14:05:39 [INFO] ----- Seed 66 started -----
+2026-05-03 14:05:39 [INFO] Hyper-parameters: num_step=50, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:06:18 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 39.07 seconds
+2026-05-03 14:06:18 [INFO] ----- Seed 99 started -----
+2026-05-03 14:06:18 [INFO] Hyper-parameters: num_step=50, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:07:06 [INFO] Seed 99: Max accuracy = 94.43%, Duration = 47.54 seconds
+2026-05-03 14:07:06 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:07:06 [INFO] Seed 12345: Max accuracy = 94.43%, Duration = 17.51 seconds
+2026-05-03 14:07:06 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 39.07 seconds
+2026-05-03 14:07:06 [INFO] Seed 99: Max accuracy = 94.43%, Duration = 47.54 seconds
+2026-05-03 14:07:06 [INFO] ============================================================
+
+2026-05-03 14:08:27 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:08:27 [INFO] Seeds: [12345, 66, 99, 777, 888, 999, 2345, 333, 1234, 9012, 5678, 111, 222, 444, 555, 666, 3456, 4567, 6789, 7890, 8901, 1001, 2002, 3003, 4004, 5005, 6006, 7007, 8008, 9009, 42, 78, 63]
+2026-05-03 14:08:27 [INFO] ----- Seed 12345 started -----
+2026-05-03 14:08:27 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:08:33 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 6.41 seconds
+2026-05-03 14:08:33 [INFO] ----- Seed 66 started -----
+2026-05-03 14:08:33 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:08:40 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 6.33 seconds
+2026-05-03 14:08:40 [INFO] ----- Seed 99 started -----
+2026-05-03 14:08:40 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:08:46 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 6.26 seconds
+2026-05-03 14:08:46 [INFO] ----- Seed 777 started -----
+2026-05-03 14:08:46 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:08:52 [INFO] Seed 777: Max accuracy = 94.03%, Duration = 6.22 seconds
+2026-05-03 14:08:52 [INFO] ----- Seed 888 started -----
+2026-05-03 14:08:52 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:08:59 [INFO] Seed 888: Max accuracy = 93.98%, Duration = 7.00 seconds
+2026-05-03 14:08:59 [INFO] ----- Seed 999 started -----
+2026-05-03 14:08:59 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:06 [INFO] Seed 999: Max accuracy = 94.11%, Duration = 6.87 seconds
+2026-05-03 14:09:06 [INFO] ----- Seed 2345 started -----
+2026-05-03 14:09:06 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:12 [INFO] Seed 2345: Max accuracy = 93.95%, Duration = 6.01 seconds
+2026-05-03 14:09:12 [INFO] ----- Seed 333 started -----
+2026-05-03 14:09:12 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:19 [INFO] Seed 333: Max accuracy = 94.16%, Duration = 6.69 seconds
+2026-05-03 14:09:19 [INFO] ----- Seed 1234 started -----
+2026-05-03 14:09:19 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:25 [INFO] Seed 1234: Max accuracy = 94.43%, Duration = 6.39 seconds
+2026-05-03 14:09:25 [INFO] ----- Seed 9012 started -----
+2026-05-03 14:09:25 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:32 [INFO] Seed 9012: Max accuracy = 93.95%, Duration = 6.62 seconds
+2026-05-03 14:09:32 [INFO] ----- Seed 5678 started -----
+2026-05-03 14:09:32 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:38 [INFO] Seed 5678: Max accuracy = 94.23%, Duration = 6.60 seconds
+2026-05-03 14:09:38 [INFO] ----- Seed 111 started -----
+2026-05-03 14:09:38 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:45 [INFO] Seed 111: Max accuracy = 94.13%, Duration = 6.29 seconds
+2026-05-03 14:09:45 [INFO] ----- Seed 222 started -----
+2026-05-03 14:09:45 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:51 [INFO] Seed 222: Max accuracy = 94.11%, Duration = 6.08 seconds
+2026-05-03 14:09:51 [INFO] ----- Seed 444 started -----
+2026-05-03 14:09:51 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:09:58 [INFO] Seed 444: Max accuracy = 94.28%, Duration = 7.03 seconds
+2026-05-03 14:09:58 [INFO] ----- Seed 555 started -----
+2026-05-03 14:09:58 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:04 [INFO] Seed 555: Max accuracy = 94.17%, Duration = 5.96 seconds
+2026-05-03 14:10:04 [INFO] ----- Seed 666 started -----
+2026-05-03 14:10:04 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:10 [INFO] Seed 666: Max accuracy = 94.23%, Duration = 6.12 seconds
+2026-05-03 14:10:10 [INFO] ----- Seed 3456 started -----
+2026-05-03 14:10:10 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:16 [INFO] Seed 3456: Max accuracy = 93.81%, Duration = 6.51 seconds
+2026-05-03 14:10:16 [INFO] ----- Seed 4567 started -----
+2026-05-03 14:10:16 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:22 [INFO] Seed 4567: Max accuracy = 94.12%, Duration = 6.12 seconds
+2026-05-03 14:10:22 [INFO] ----- Seed 6789 started -----
+2026-05-03 14:10:22 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:29 [INFO] Seed 6789: Max accuracy = 94.13%, Duration = 6.05 seconds
+2026-05-03 14:10:29 [INFO] ----- Seed 7890 started -----
+2026-05-03 14:10:29 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:35 [INFO] Seed 7890: Max accuracy = 94.47%, Duration = 6.05 seconds
+2026-05-03 14:10:35 [INFO] ----- Seed 8901 started -----
+2026-05-03 14:10:35 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:41 [INFO] Seed 8901: Max accuracy = 94.11%, Duration = 6.76 seconds
+2026-05-03 14:10:41 [INFO] ----- Seed 1001 started -----
+2026-05-03 14:10:41 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:47 [INFO] Seed 1001: Max accuracy = 93.81%, Duration = 5.90 seconds
+2026-05-03 14:10:47 [INFO] ----- Seed 2002 started -----
+2026-05-03 14:10:47 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:10:54 [INFO] Seed 2002: Max accuracy = 94.43%, Duration = 6.29 seconds
+2026-05-03 14:10:54 [INFO] ----- Seed 3003 started -----
+2026-05-03 14:10:54 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:00 [INFO] Seed 3003: Max accuracy = 94.11%, Duration = 6.25 seconds
+2026-05-03 14:11:00 [INFO] ----- Seed 4004 started -----
+2026-05-03 14:11:00 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:07 [INFO] Seed 4004: Max accuracy = 94.23%, Duration = 7.46 seconds
+2026-05-03 14:11:07 [INFO] ----- Seed 5005 started -----
+2026-05-03 14:11:07 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:14 [INFO] Seed 5005: Max accuracy = 94.08%, Duration = 7.10 seconds
+2026-05-03 14:11:14 [INFO] ----- Seed 6006 started -----
+2026-05-03 14:11:14 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:22 [INFO] Seed 6006: Max accuracy = 94.43%, Duration = 7.42 seconds
+2026-05-03 14:11:22 [INFO] ----- Seed 7007 started -----
+2026-05-03 14:11:22 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:29 [INFO] Seed 7007: Max accuracy = 94.06%, Duration = 7.21 seconds
+2026-05-03 14:11:29 [INFO] ----- Seed 8008 started -----
+2026-05-03 14:11:29 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:37 [INFO] Seed 8008: Max accuracy = 94.47%, Duration = 7.79 seconds
+2026-05-03 14:11:37 [INFO] ----- Seed 9009 started -----
+2026-05-03 14:11:37 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:44 [INFO] Seed 9009: Max accuracy = 94.11%, Duration = 7.26 seconds
+2026-05-03 14:11:44 [INFO] ----- Seed 42 started -----
+2026-05-03 14:11:44 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:51 [INFO] Seed 42: Max accuracy = 94.13%, Duration = 6.61 seconds
+2026-05-03 14:11:51 [INFO] ----- Seed 78 started -----
+2026-05-03 14:11:51 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:11:58 [INFO] Seed 78: Max accuracy = 94.23%, Duration = 7.36 seconds
+2026-05-03 14:11:58 [INFO] ----- Seed 63 started -----
+2026-05-03 14:11:58 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:12:05 [INFO] Seed 63: Max accuracy = 94.03%, Duration = 7.13 seconds
+2026-05-03 14:12:05 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:12:05 [INFO] Seed 12345: Max accuracy = 93.81%, Duration = 6.41 seconds
+2026-05-03 14:12:05 [INFO] Seed 66: Max accuracy = 94.23%, Duration = 6.33 seconds
+2026-05-03 14:12:05 [INFO] Seed 99: Max accuracy = 94.17%, Duration = 6.26 seconds
+2026-05-03 14:12:05 [INFO] Seed 777: Max accuracy = 94.03%, Duration = 6.22 seconds
+2026-05-03 14:12:05 [INFO] Seed 888: Max accuracy = 93.98%, Duration = 7.00 seconds
+2026-05-03 14:12:05 [INFO] Seed 999: Max accuracy = 94.11%, Duration = 6.87 seconds
+2026-05-03 14:12:05 [INFO] Seed 2345: Max accuracy = 93.95%, Duration = 6.01 seconds
+2026-05-03 14:12:05 [INFO] Seed 333: Max accuracy = 94.16%, Duration = 6.69 seconds
+2026-05-03 14:12:05 [INFO] Seed 1234: Max accuracy = 94.43%, Duration = 6.39 seconds
+2026-05-03 14:12:05 [INFO] Seed 9012: Max accuracy = 93.95%, Duration = 6.62 seconds
+2026-05-03 14:12:05 [INFO] Seed 5678: Max accuracy = 94.23%, Duration = 6.60 seconds
+2026-05-03 14:12:05 [INFO] Seed 111: Max accuracy = 94.13%, Duration = 6.29 seconds
+2026-05-03 14:12:05 [INFO] Seed 222: Max accuracy = 94.11%, Duration = 6.08 seconds
+2026-05-03 14:12:05 [INFO] Seed 444: Max accuracy = 94.28%, Duration = 7.03 seconds
+2026-05-03 14:12:05 [INFO] Seed 555: Max accuracy = 94.17%, Duration = 5.96 seconds
+2026-05-03 14:12:05 [INFO] Seed 666: Max accuracy = 94.23%, Duration = 6.12 seconds
+2026-05-03 14:12:05 [INFO] Seed 3456: Max accuracy = 93.81%, Duration = 6.51 seconds
+2026-05-03 14:12:05 [INFO] Seed 4567: Max accuracy = 94.12%, Duration = 6.12 seconds
+2026-05-03 14:12:05 [INFO] Seed 6789: Max accuracy = 94.13%, Duration = 6.05 seconds
+2026-05-03 14:12:05 [INFO] Seed 7890: Max accuracy = 94.47%, Duration = 6.05 seconds
+2026-05-03 14:12:05 [INFO] Seed 8901: Max accuracy = 94.11%, Duration = 6.76 seconds
+2026-05-03 14:12:05 [INFO] Seed 1001: Max accuracy = 93.81%, Duration = 5.90 seconds
+2026-05-03 14:12:05 [INFO] Seed 2002: Max accuracy = 94.43%, Duration = 6.29 seconds
+2026-05-03 14:12:05 [INFO] Seed 3003: Max accuracy = 94.11%, Duration = 6.25 seconds
+2026-05-03 14:12:05 [INFO] Seed 4004: Max accuracy = 94.23%, Duration = 7.46 seconds
+2026-05-03 14:12:05 [INFO] Seed 5005: Max accuracy = 94.08%, Duration = 7.10 seconds
+2026-05-03 14:12:05 [INFO] Seed 6006: Max accuracy = 94.43%, Duration = 7.42 seconds
+2026-05-03 14:12:05 [INFO] Seed 7007: Max accuracy = 94.06%, Duration = 7.21 seconds
+2026-05-03 14:12:05 [INFO] Seed 8008: Max accuracy = 94.47%, Duration = 7.79 seconds
+2026-05-03 14:12:05 [INFO] Seed 9009: Max accuracy = 94.11%, Duration = 7.26 seconds
+2026-05-03 14:12:05 [INFO] Seed 42: Max accuracy = 94.13%, Duration = 6.61 seconds
+2026-05-03 14:12:05 [INFO] Seed 78: Max accuracy = 94.23%, Duration = 7.36 seconds
+2026-05-03 14:12:05 [INFO] Seed 63: Max accuracy = 94.03%, Duration = 7.13 seconds
+2026-05-03 14:12:05 [INFO] ============================================================
+
+2026-05-03 14:14:09 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:14:09 [INFO] Seeds: [12345, 66, 99, 777, 888, 999, 2345, 333, 1234, 9012, 5678, 111, 222, 444, 555, 666, 3456, 4567, 6789, 7890, 8901, 1001, 2002, 3003, 4004, 5005, 6006, 7007, 8008, 9009, 42, 78, 63]
+2026-05-03 14:14:09 [INFO] ----- Seed 12345 started -----
+2026-05-03 14:14:09 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:16 [INFO] Seed 12345: Max accuracy = 94.43%, Duration = 6.92 seconds
+2026-05-03 14:14:16 [INFO] ----- Seed 66 started -----
+2026-05-03 14:14:16 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:24 [INFO] Seed 66: Max accuracy = 94.17%, Duration = 7.26 seconds
+2026-05-03 14:14:24 [INFO] ----- Seed 99 started -----
+2026-05-03 14:14:24 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:30 [INFO] Seed 99: Max accuracy = 94.28%, Duration = 6.61 seconds
+2026-05-03 14:14:30 [INFO] ----- Seed 777 started -----
+2026-05-03 14:14:30 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:37 [INFO] Seed 777: Max accuracy = 94.23%, Duration = 7.09 seconds
+2026-05-03 14:14:37 [INFO] ----- Seed 888 started -----
+2026-05-03 14:14:37 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:45 [INFO] Seed 888: Max accuracy = 94.03%, Duration = 7.33 seconds
+2026-05-03 14:14:45 [INFO] ----- Seed 999 started -----
+2026-05-03 14:14:45 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:52 [INFO] Seed 999: Max accuracy = 94.43%, Duration = 7.56 seconds
+2026-05-03 14:14:52 [INFO] ----- Seed 2345 started -----
+2026-05-03 14:14:52 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:14:59 [INFO] Seed 2345: Max accuracy = 93.95%, Duration = 7.34 seconds
+2026-05-03 14:14:59 [INFO] ----- Seed 333 started -----
+2026-05-03 14:14:59 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:06 [INFO] Seed 333: Max accuracy = 94.13%, Duration = 6.89 seconds
+2026-05-03 14:15:06 [INFO] ----- Seed 1234 started -----
+2026-05-03 14:15:06 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:14 [INFO] Seed 1234: Max accuracy = 93.95%, Duration = 7.27 seconds
+2026-05-03 14:15:14 [INFO] ----- Seed 9012 started -----
+2026-05-03 14:15:14 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:21 [INFO] Seed 9012: Max accuracy = 94.43%, Duration = 7.42 seconds
+2026-05-03 14:15:21 [INFO] ----- Seed 5678 started -----
+2026-05-03 14:15:21 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:28 [INFO] Seed 5678: Max accuracy = 94.23%, Duration = 7.05 seconds
+2026-05-03 14:15:28 [INFO] ----- Seed 111 started -----
+2026-05-03 14:15:28 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:35 [INFO] Seed 111: Max accuracy = 94.23%, Duration = 7.21 seconds
+2026-05-03 14:15:35 [INFO] ----- Seed 222 started -----
+2026-05-03 14:15:35 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:43 [INFO] Seed 222: Max accuracy = 94.47%, Duration = 7.49 seconds
+2026-05-03 14:15:43 [INFO] ----- Seed 444 started -----
+2026-05-03 14:15:43 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:50 [INFO] Seed 444: Max accuracy = 94.43%, Duration = 7.63 seconds
+2026-05-03 14:15:50 [INFO] ----- Seed 555 started -----
+2026-05-03 14:15:50 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:15:58 [INFO] Seed 555: Max accuracy = 94.43%, Duration = 7.35 seconds
+2026-05-03 14:15:58 [INFO] ----- Seed 666 started -----
+2026-05-03 14:15:58 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:04 [INFO] Seed 666: Max accuracy = 93.95%, Duration = 6.61 seconds
+2026-05-03 14:16:04 [INFO] ----- Seed 3456 started -----
+2026-05-03 14:16:04 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:12 [INFO] Seed 3456: Max accuracy = 94.47%, Duration = 7.11 seconds
+2026-05-03 14:16:12 [INFO] ----- Seed 4567 started -----
+2026-05-03 14:16:12 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:19 [INFO] Seed 4567: Max accuracy = 94.12%, Duration = 7.22 seconds
+2026-05-03 14:16:19 [INFO] ----- Seed 6789 started -----
+2026-05-03 14:16:19 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:26 [INFO] Seed 6789: Max accuracy = 94.43%, Duration = 7.14 seconds
+2026-05-03 14:16:26 [INFO] ----- Seed 7890 started -----
+2026-05-03 14:16:26 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:33 [INFO] Seed 7890: Max accuracy = 93.91%, Duration = 6.73 seconds
+2026-05-03 14:16:33 [INFO] ----- Seed 8901 started -----
+2026-05-03 14:16:33 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:39 [INFO] Seed 8901: Max accuracy = 93.96%, Duration = 6.78 seconds
+2026-05-03 14:16:39 [INFO] ----- Seed 1001 started -----
+2026-05-03 14:16:39 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:46 [INFO] Seed 1001: Max accuracy = 94.23%, Duration = 6.53 seconds
+2026-05-03 14:16:46 [INFO] ----- Seed 2002 started -----
+2026-05-03 14:16:46 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:16:53 [INFO] Seed 2002: Max accuracy = 93.81%, Duration = 7.18 seconds
+2026-05-03 14:16:53 [INFO] ----- Seed 3003 started -----
+2026-05-03 14:16:53 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:00 [INFO] Seed 3003: Max accuracy = 94.13%, Duration = 6.71 seconds
+2026-05-03 14:17:00 [INFO] ----- Seed 4004 started -----
+2026-05-03 14:17:00 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:08 [INFO] Seed 4004: Max accuracy = 94.43%, Duration = 7.89 seconds
+2026-05-03 14:17:08 [INFO] ----- Seed 5005 started -----
+2026-05-03 14:17:08 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:15 [INFO] Seed 5005: Max accuracy = 94.28%, Duration = 7.41 seconds
+2026-05-03 14:17:15 [INFO] ----- Seed 6006 started -----
+2026-05-03 14:17:15 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:23 [INFO] Seed 6006: Max accuracy = 94.47%, Duration = 7.50 seconds
+2026-05-03 14:17:23 [INFO] ----- Seed 7007 started -----
+2026-05-03 14:17:23 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:30 [INFO] Seed 7007: Max accuracy = 94.43%, Duration = 7.59 seconds
+2026-05-03 14:17:30 [INFO] ----- Seed 8008 started -----
+2026-05-03 14:17:30 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:38 [INFO] Seed 8008: Max accuracy = 94.06%, Duration = 7.48 seconds
+2026-05-03 14:17:38 [INFO] ----- Seed 9009 started -----
+2026-05-03 14:17:38 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:45 [INFO] Seed 9009: Max accuracy = 94.43%, Duration = 7.14 seconds
+2026-05-03 14:17:45 [INFO] ----- Seed 42 started -----
+2026-05-03 14:17:45 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:52 [INFO] Seed 42: Max accuracy = 93.81%, Duration = 7.02 seconds
+2026-05-03 14:17:52 [INFO] ----- Seed 78 started -----
+2026-05-03 14:17:52 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:17:59 [INFO] Seed 78: Max accuracy = 94.47%, Duration = 6.67 seconds
+2026-05-03 14:17:59 [INFO] ----- Seed 63 started -----
+2026-05-03 14:17:59 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:18:06 [INFO] Seed 63: Max accuracy = 94.09%, Duration = 7.21 seconds
+2026-05-03 14:18:06 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:18:06 [INFO] Seed 12345: Max accuracy = 94.43%, Duration = 6.92 seconds
+2026-05-03 14:18:06 [INFO] Seed 66: Max accuracy = 94.17%, Duration = 7.26 seconds
+2026-05-03 14:18:06 [INFO] Seed 99: Max accuracy = 94.28%, Duration = 6.61 seconds
+2026-05-03 14:18:06 [INFO] Seed 777: Max accuracy = 94.23%, Duration = 7.09 seconds
+2026-05-03 14:18:06 [INFO] Seed 888: Max accuracy = 94.03%, Duration = 7.33 seconds
+2026-05-03 14:18:06 [INFO] Seed 999: Max accuracy = 94.43%, Duration = 7.56 seconds
+2026-05-03 14:18:06 [INFO] Seed 2345: Max accuracy = 93.95%, Duration = 7.34 seconds
+2026-05-03 14:18:06 [INFO] Seed 333: Max accuracy = 94.13%, Duration = 6.89 seconds
+2026-05-03 14:18:06 [INFO] Seed 1234: Max accuracy = 93.95%, Duration = 7.27 seconds
+2026-05-03 14:18:06 [INFO] Seed 9012: Max accuracy = 94.43%, Duration = 7.42 seconds
+2026-05-03 14:18:06 [INFO] Seed 5678: Max accuracy = 94.23%, Duration = 7.05 seconds
+2026-05-03 14:18:06 [INFO] Seed 111: Max accuracy = 94.23%, Duration = 7.21 seconds
+2026-05-03 14:18:06 [INFO] Seed 222: Max accuracy = 94.47%, Duration = 7.49 seconds
+2026-05-03 14:18:06 [INFO] Seed 444: Max accuracy = 94.43%, Duration = 7.63 seconds
+2026-05-03 14:18:06 [INFO] Seed 555: Max accuracy = 94.43%, Duration = 7.35 seconds
+2026-05-03 14:18:06 [INFO] Seed 666: Max accuracy = 93.95%, Duration = 6.61 seconds
+2026-05-03 14:18:06 [INFO] Seed 3456: Max accuracy = 94.47%, Duration = 7.11 seconds
+2026-05-03 14:18:06 [INFO] Seed 4567: Max accuracy = 94.12%, Duration = 7.22 seconds
+2026-05-03 14:18:06 [INFO] Seed 6789: Max accuracy = 94.43%, Duration = 7.14 seconds
+2026-05-03 14:18:06 [INFO] Seed 7890: Max accuracy = 93.91%, Duration = 6.73 seconds
+2026-05-03 14:18:06 [INFO] Seed 8901: Max accuracy = 93.96%, Duration = 6.78 seconds
+2026-05-03 14:18:06 [INFO] Seed 1001: Max accuracy = 94.23%, Duration = 6.53 seconds
+2026-05-03 14:18:06 [INFO] Seed 2002: Max accuracy = 93.81%, Duration = 7.18 seconds
+2026-05-03 14:18:06 [INFO] Seed 3003: Max accuracy = 94.13%, Duration = 6.71 seconds
+2026-05-03 14:18:06 [INFO] Seed 4004: Max accuracy = 94.43%, Duration = 7.89 seconds
+2026-05-03 14:18:06 [INFO] Seed 5005: Max accuracy = 94.28%, Duration = 7.41 seconds
+2026-05-03 14:18:06 [INFO] Seed 6006: Max accuracy = 94.47%, Duration = 7.50 seconds
+2026-05-03 14:18:06 [INFO] Seed 7007: Max accuracy = 94.43%, Duration = 7.59 seconds
+2026-05-03 14:18:06 [INFO] Seed 8008: Max accuracy = 94.06%, Duration = 7.48 seconds
+2026-05-03 14:18:06 [INFO] Seed 9009: Max accuracy = 94.43%, Duration = 7.14 seconds
+2026-05-03 14:18:06 [INFO] Seed 42: Max accuracy = 93.81%, Duration = 7.02 seconds
+2026-05-03 14:18:06 [INFO] Seed 78: Max accuracy = 94.47%, Duration = 6.67 seconds
+2026-05-03 14:18:06 [INFO] Seed 63: Max accuracy = 94.09%, Duration = 7.21 seconds
+2026-05-03 14:18:06 [INFO] ============================================================
+
+2026-05-03 14:20:50 [INFO] ============================== Experiment started ==============================
+2026-05-03 14:20:50 [INFO] Seeds: [222, 3456, 6006, 78]
+2026-05-03 14:20:50 [INFO] ----- Seed 222 started -----
+2026-05-03 14:20:50 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:20:57 [INFO] Seed 222: Max accuracy = 94.47%, Duration = 6.64 seconds
+2026-05-03 14:20:57 [INFO] ----- Seed 3456 started -----
+2026-05-03 14:20:57 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:21:04 [INFO] Seed 3456: Max accuracy = 94.47%, Duration = 6.79 seconds
+2026-05-03 14:21:04 [INFO] ----- Seed 6006 started -----
+2026-05-03 14:21:04 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:21:10 [INFO] Seed 6006: Max accuracy = 94.47%, Duration = 6.74 seconds
+2026-05-03 14:21:10 [INFO] ----- Seed 78 started -----
+2026-05-03 14:21:10 [INFO] Hyper-parameters: num_step=20, population_num=30, temperature=1.0, noise_scale=0.8, mutate_rate=0.6, elite_rate=0.1, diver_rate=0.2, max_iter_time=30
+2026-05-03 14:21:18 [INFO] Seed 78: Max accuracy = 94.47%, Duration = 7.68 seconds
+2026-05-03 14:21:18 [INFO] ============================== Summary of all seeds ==============================
+2026-05-03 14:21:18 [INFO] Seed 222: Max accuracy = 94.47%, Duration = 6.64 seconds
+2026-05-03 14:21:18 [INFO] Seed 3456: Max accuracy = 94.47%, Duration = 6.79 seconds
+2026-05-03 14:21:18 [INFO] Seed 6006: Max accuracy = 94.47%, Duration = 6.74 seconds
+2026-05-03 14:21:18 [INFO] Seed 78: Max accuracy = 94.47%, Duration = 7.68 seconds
+2026-05-03 14:21:18 [INFO] ============================================================
+
